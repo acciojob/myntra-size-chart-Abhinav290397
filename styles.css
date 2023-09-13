@@ -14,3 +14,17 @@ tbody{
 .car{
 	text-align:left;
 }
+thead{
+	background-color:maroon;
+	color:white;
+}
+.audi{
+	background-color:lightcoral;
+	color:white;
+}
+.bmw{
+	background-color:lightpink;
+}
+.mg{
+	background-color:lightgray
+}

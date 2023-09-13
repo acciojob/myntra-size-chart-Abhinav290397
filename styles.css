@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+	width:80%;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+td{
+	border:1px solid black;
+}
+tbody{
+	text-align:right;
+}
+.car{
+	text-align:left;
+}
